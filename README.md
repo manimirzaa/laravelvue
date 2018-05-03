@@ -10,7 +10,7 @@ $ git clone git@github.com:manimirzaa/laravelvue.git desired-name-of-app
 
 <h5>This will download the code in to your local or remote server.</h5>
 
-<h5>2 - Create new Database of you desired name and Edit the file on the root folder called “.env” and add your database information.
+<h5>2 - Create new Database of you desired name and Edit the file on the root folder called “.env” and add your database information.</h5>
 <br/>
 <ol>
   <li>Host: Your Current Host</li>
