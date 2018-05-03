@@ -1,4 +1,4 @@
-<h1>Laravelvue</h1>
+<h1>Laravelvue</h1> <i>By Imran Ahmed (manimirzaa@gmail.com)</i>
 
 <p>Laravelvue is simple integration of Laravel with Vue.js</p>
 
