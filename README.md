@@ -10,8 +10,11 @@ $ git clone git@github.com:manimirzaa/laravelvue.git desired-name-of-app
 
 <h5>This will download the code in to your local or remote server.</h5>
 
-<h5>2 - Edit the file on the root folder called “.env” and add your database information  Host: Your Current Host Database: Your database name Username: Username for your database user (root for xampp localhost)
-Password: Password for you database user ( no password for xampp default root user).</h5>
+<h5>2 - Create new Database of you desired name and Edit the file on the root folder called “.env” and add your database information.
+<ol>Host: Your Current Host</ol>
+<ol>Database: Your database name</ol>
+<ol>Username: Username for your database user (root for xampp localhost)</ol>
+<ol>Password: Password for you database user ( no password for xampp default root user).</h5></ol>
 
 <h5>3 - Run the “Database Migration” by typing following command.</h5>
 
