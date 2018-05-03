@@ -5,7 +5,7 @@
 <h5>1 - First Download the code from GitHub by using following git command on server or localhost.</h5>
 
 <code>
-$ git clone git@github.com:manimirzaa/laravelvue.git
+$ git clone git@github.com:manimirzaa/laravelvue.git desired-name-of-app
 </code>
 
 <h5>This will download the code in to your local or remote server.</h5>
